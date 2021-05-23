@@ -1,0 +1,26 @@
+{
+  "name": "simplenodeserver",
+  "version": "1.0.0",
+  "description": "simple node web-server with express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Waleed9042/simpleNodeServer.git"
+  },
+  "author": "Waleed Butt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Waleed9042/simpleNodeServer/issues"
+  },
+  "homepage": "https://github.com/Waleed9042/simpleNodeServer#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
